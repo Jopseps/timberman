@@ -9,7 +9,7 @@
 - Up arrow or ‘W’ key to cut the tree while the Timberman is standing still
 
 ### Why Timberman?
-I ended up doing this project after playing Timberman on Steam
+I made this project after playing Timberman on Steam so I inspired from Classic Timberman game
 
 ### Compability
 This project uses libraries for linux like termios and it won't work on windows
